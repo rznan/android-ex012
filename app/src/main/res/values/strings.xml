@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ex012</string>
+    <string name="vip">VIP:</string>
+    <string name="vip_function">Cargo:</string>
+    <string name="code">Código:</string>
+    <string name="value">Valor:</string>
+    <string name="final_value">Valor Final:</string>
+    <string name="buy_button">Comprar</string>
+    <string name="convenience">Taxa:</string>
+    <string name="output_title">Resumo</string>
+    <string name="return_button">voltar</string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+</resources>
